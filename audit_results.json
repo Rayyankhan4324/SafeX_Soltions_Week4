@@ -1,0 +1,794 @@
+[
+  {
+    "name": "JQ Aesthetics",
+    "url": "https://www.jqaesthetics.com/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://www.jqaesthetics.com/",
+        "pages_loaded": 2,
+        "page_urls_sampled": [
+          "https://www.jqaesthetics.com/",
+          "https://www.jqaesthetics.com/admin"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt not found; proceeded with the configured small sample.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "Home",
+          "About",
+          "Services",
+          "Location",
+          "Login",
+          "0306 0161111",
+          "Fakhar-e-Alam Rd. Peshawar Cantt",
+          "Book Appointment",
+          "JQ Aesthetics"
+        ],
+        "contact_form_detected": true,
+        "forms_found": 3,
+        "cta_texts_found": [
+          "Book Appointment",
+          "Book Service"
+        ],
+        "booking_cta_texts_found": [
+          "Book Appointment",
+          "Book Service"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": false,
+        "social_links_found": [
+          "instagram.com"
+        ]
+      },
+      "seo_and_content": {
+        "homepage_title": "JQ - Aesthetics",
+        "homepage_meta_description": null,
+        "heading_samples": [
+          "Graceful Changes, Expertly Guided",
+          "Spreading smiles, one Treatment at a time",
+          "\"Peshawar's Best Kept Secret is Out\"",
+          "Services that make us friends with our Patient",
+          "Botox",
+          "Pico Laser",
+          "Hydra Facial",
+          "IV Lighting",
+          "Micro Needling",
+          "Meso Therapy",
+          "Electrocautery",
+          "Eye lash Lift",
+          "Scalp PRP",
+          "Face PRP",
+          "Mole Removal",
+          "Chemical Peel",
+          "Fillers",
+          "BB Glow",
+          "Laser Treatment",
+          "Skin Tag Removal"
+        ],
+        "local_business_schema_hint_detected": false,
+        "images_sampled": 32,
+        "images_with_nonempty_alt": 0,
+        "alt_coverage_percent_for_sample": 0.0
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 121.5,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "Derma Glow",
+    "url": "https://dermaglow.com.pk/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://dermaglow.com.pk/",
+        "pages_loaded": 4,
+        "page_urls_sampled": [
+          "https://dermaglow.com.pk/",
+          "https://dermaglow.com.pk/service/laser-hair-removal-peshawar/",
+          "https://dermaglow.com.pk/service/hydrafacial-peshawar/",
+          "https://dermaglow.com.pk/service/12d-hifu-peshawar/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt allowed this URL.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "Laser hair removal",
+          "HydraFacial",
+          "12D HIFU",
+          "Fractional CO2",
+          "Pico laser",
+          "Microneedling",
+          "Botox and fillers",
+          "Chemical peels",
+          "Fat freezing",
+          "Acne treatment",
+          "Mesotherapy",
+          "IV drips",
+          "Mole and wart removal",
+          "Signature facials",
+          "PRP treatment",
+          "Bridal makeup"
+        ],
+        "contact_form_detected": true,
+        "forms_found": 5,
+        "cta_texts_found": [
+          "Book online",
+          "Contact",
+          "Book now",
+          "Book an appointment",
+          "Call 0327 0155503",
+          "Call or WhatsApp 0327 0155503",
+          "Call the clinic",
+          "Contact and directions",
+          "Book",
+          "Book laser hair removal",
+          "Book HydraFacial",
+          "Book 12D HIFU"
+        ],
+        "booking_cta_texts_found": [
+          "Book online",
+          "Book now",
+          "Book an appointment",
+          "Book",
+          "Book laser hair removal",
+          "Book HydraFacial",
+          "Book 12D HIFU"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": false,
+        "social_links_found": [
+          "instagram.com"
+        ]
+      },
+      "seo_and_content": {
+        "homepage_title": "Derma Glow | Aesthetic Clinic And Makeup Studio In Peshawar",
+        "homepage_meta_description": "Doctor led aesthetic clinic and a females only makeup studio at Phase 3 Chowk, Peshawar. Every treatment price published. Call 0327 0155503 to book.",
+        "heading_samples": [
+          "Aesthetic clinic in Peshawar, run by a doctor.",
+          "The aesthetic clinic",
+          "The Makeup Studio",
+          "What would you like to treat?",
+          "Derma Glow, answered in one screen",
+          "What is Derma Glow?",
+          "Who performs the treatments?",
+          "Where is the clinic?",
+          "What are the opening hours?",
+          "How much do treatments cost?",
+          "How do I book?",
+          "Do you treat men?",
+          "Which areas do you serve?",
+          "Fifteen treatments, every price published",
+          "A Makeup Studio at the same address",
+          "Dr. Warda Nasir Mohib",
+          "What your first visit looks like",
+          "Why you can check everything on this page",
+          "Treatments performed, not outsourced",
+          "Qualifications you can read"
+        ],
+        "local_business_schema_hint_detected": false,
+        "images_sampled": 101,
+        "images_with_nonempty_alt": 97,
+        "alt_coverage_percent_for_sample": 96.0
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 1679.2,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "Hijama Health Center",
+    "url": "https://hijamahealthcentre.com/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://hijamahealthcentre.com/",
+        "pages_loaded": 4,
+        "page_urls_sampled": [
+          "https://hijamahealthcentre.com/",
+          "https://hijamahealthcentre.com/about/",
+          "https://hijamahealthcentre.com/services/",
+          "https://hijamahealthcentre.com/conditions-we-treat/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt allowed this URL.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "Home",
+          "About",
+          "Services",
+          "Conditions We Treat",
+          "Treatment Process & Safety",
+          "Gallery",
+          "FAQs",
+          "Contact Us"
+        ],
+        "contact_form_detected": true,
+        "forms_found": 9,
+        "cta_texts_found": [
+          "Contact Us",
+          "Request An Appointment",
+          "24/7 Service For Emergencies",
+          "G e t S t a r t e d",
+          "A s k M o r e Q u e s t i o n s H e r e",
+          "Book Now"
+        ],
+        "booking_cta_texts_found": [
+          "Request An Appointment",
+          "Book Now"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": true,
+        "social_links_found": []
+      },
+      "seo_and_content": {
+        "homepage_title": "Hijama Health Center",
+        "homepage_meta_description": null,
+        "heading_samples": [
+          "Helping You Achieve Better Health",
+          "Utilizing Traditional Hijama with Modern Hygiene Standards",
+          "Professional Hijama & Cupping Therapy According to Your Need",
+          "Hijama Therapy",
+          "Wet Cupping Therapy",
+          "Dry Cupping Therapy",
+          "Muscle Knots Therapy",
+          "Vacuum Massage Therapy",
+          "Face Beauty Therapy",
+          "Rehabilitation Therapy",
+          "Backpain Relief",
+          "Acupuncture Therapy",
+          "Cupping Therapy",
+          "The Reasons To Choose Hijama Health Center",
+          "Frequently Asked Questions",
+          "Review Our Exclusive Case Studies From various spectrum",
+          "What our Happy Clients reviewed about Us",
+          "Book Your Session For Professional Hijama Therapy",
+          "Explore Our Products",
+          "Subscribe to our newsletter & be informed about news and offers"
+        ],
+        "local_business_schema_hint_detected": true,
+        "images_sampled": 105,
+        "images_with_nonempty_alt": 90,
+        "alt_coverage_percent_for_sample": 85.7
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 7689.4,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "Mahnoor Studio",
+    "url": "https://www.mahnoorstudio.com/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://www.mahnoorstudio.com/",
+        "pages_loaded": 1,
+        "page_urls_sampled": [
+          "https://www.mahnoorstudio.com/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt allowed this URL.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [],
+        "contact_form_detected": false,
+        "forms_found": 0,
+        "cta_texts_found": [],
+        "booking_cta_texts_found": [],
+        "contact_info_hint_detected": false,
+        "faq_hint_detected": false,
+        "social_links_found": []
+      },
+      "seo_and_content": {
+        "homepage_title": "Mahnoor Studio | Premium Bridal Makeup & Academy in Peshawar",
+        "homepage_meta_description": "Peshawar's premier bridal makeup studio and professional academy. Book your bridal appointment or join our certified makeup course today.",
+        "heading_samples": [],
+        "local_business_schema_hint_detected": false,
+        "images_sampled": 0,
+        "images_with_nonempty_alt": 0,
+        "alt_coverage_percent_for_sample": null
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 368.8,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "Aesthetica Trio Clinic",
+    "url": "https://aestheticatrio.com/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://aestheticatrio.com/",
+        "pages_loaded": 1,
+        "page_urls_sampled": [
+          "https://aestheticatrio.com/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt allowed this URL.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "Aesthetica Trio Hair • Skin • Dental",
+          "Doctors",
+          "Gallery",
+          "Contact",
+          "chat WhatsApp",
+          "call Call Clinic",
+          "Overview Video",
+          "Minister Visit",
+          "Video Gallery",
+          "Pictures Gallery",
+          "Medical Specialists",
+          "Social Channels",
+          "Location & Contact"
+        ],
+        "contact_form_detected": false,
+        "forms_found": 0,
+        "cta_texts_found": [
+          "Contact",
+          "call Call Clinic",
+          "Location & Contact",
+          "call Call +923351030303",
+          "call Call To Consult",
+          "call +923351030303",
+          "call Call Us for Details",
+          "call Call for Consultation",
+          "call Direct Line: +92 3351030303",
+          "Reserve Time",
+          "Contact Us",
+          "Help & Directions"
+        ],
+        "booking_cta_texts_found": [
+          "Reserve Time"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": false,
+        "social_links_found": [
+          "instagram.com",
+          "facebook.com",
+          "tiktok.com",
+          "youtube.com"
+        ]
+      },
+      "seo_and_content": {
+        "homepage_title": "Plastic Surgery & Aesthetic Clinic in Peshawar - Aesthetica Trio Clinic Peshawar - Hair Transplant, Plastic Surgery & Dental",
+        "homepage_meta_description": "Plastic Surgery & Aesthetic Clinic in Peshawar, advanced hair transplants, and complete dental care. Led by a certified cosmetic and consultant plastic surgeon.",
+        "heading_samples": [
+          "Aesthetica Trio",
+          "Discover Your Best Self With Us",
+          "A quick Glimpse of Aesthetica Trio",
+          "A message from Health Minister (Syed Qasim Ali Shah)",
+          "Our Video Gallery",
+          "Aesthetica 2 Clinic Higlights",
+          "Clinics Highlights",
+          "Visit by Health Minister",
+          "Our Pictures Gallery",
+          "Visit by Nabeel Afridi",
+          "Experience the art of beauty with expert hands",
+          "Simple steps to stunning transformations",
+          "Meet our lead surgeons & clinical directors",
+          "Hamza Afridi",
+          "Dr Yaseen Afridi",
+          "Dr Imdad Ullah",
+          "Dr Walid Khan",
+          "Dr Danish Akhtar Khattak",
+          "Dr Irfan",
+          "Dr Bilal"
+        ],
+        "local_business_schema_hint_detected": false,
+        "images_sampled": 26,
+        "images_with_nonempty_alt": 11,
+        "alt_coverage_percent_for_sample": 42.3
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 1199.9,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "Velora Dental and Aesthetic",
+    "url": "https://www.veloradentalaesthetic.com/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://www.veloradentalaesthetic.com/",
+        "pages_loaded": 1,
+        "page_urls_sampled": [
+          "https://www.veloradentalaesthetic.com/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt allowed this URL.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "Velora Dental and Aesthetic",
+          "Home",
+          "The Doctor",
+          "Dentistry",
+          "Aesthetics",
+          "Contact",
+          "Book Now ✦"
+        ],
+        "contact_form_detected": true,
+        "forms_found": 1,
+        "cta_texts_found": [
+          "Contact",
+          "Book Now ✦",
+          "Reserve a Consultation",
+          "Call Clinic",
+          "Call 0346-9676014",
+          "Full Contact Details →",
+          "Book a Consultation",
+          "Book a Dental Consultation",
+          "Book a Skin Consultation",
+          "Call Now",
+          "FAQ",
+          "Uhad Tower, Phase 3"
+        ],
+        "booking_cta_texts_found": [
+          "Book Now ✦",
+          "Reserve a Consultation",
+          "Book a Consultation",
+          "Book a Dental Consultation",
+          "Book a Skin Consultation",
+          "Call to Book"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": true,
+        "social_links_found": [
+          "facebook.com",
+          "instagram.com",
+          "tiktok.com"
+        ]
+      },
+      "seo_and_content": {
+        "homepage_title": "Dentist & Aesthetic Clinic in Peshawar | Velora",
+        "homepage_meta_description": "Velora Dental and Aesthetic Clinic in Phase 3, Peshawar. Dental implants, root canal, braces, HydraFacial & PRP by Dr. Fatima Malak. Book today.",
+        "heading_samples": [
+          "Where Dentistry Meets Aesthetics",
+          "Dental Treatments",
+          "Scaling & Polishing",
+          "Teeth Whitening",
+          "Root Canal Treatment",
+          "Dental Fillings",
+          "Braces & Orthodontics",
+          "Pediatric Dentistry",
+          "Dental Implants",
+          "Restorative Dentistry",
+          "Aesthetic Treatments",
+          "HydraFacial",
+          "Chemical Peels",
+          "PRP Therapy",
+          "Microneedling",
+          "Laser Treatments",
+          "Mesotherapy",
+          "Laser Hair Removal",
+          "Electrolysis",
+          "Mole Removal"
+        ],
+        "local_business_schema_hint_detected": true,
+        "images_sampled": 54,
+        "images_with_nonempty_alt": 53,
+        "alt_coverage_percent_for_sample": 98.1
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 1320.4,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "3D Lifestyle Peshawar",
+    "url": "https://3dlifestyle.pk/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://3dlifestyle.pk/",
+        "pages_loaded": 4,
+        "page_urls_sampled": [
+          "https://3dlifestyle.pk/",
+          "http://3dlifestyle.pk/",
+          "https://3dlifestyle.pk/body-contouring/",
+          "https://3dlifestyle.pk/belly-fat-reduction/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt allowed this URL.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "(021) 111 232 889",
+          "Book A FREE Consultation",
+          "Body Contouring",
+          "Belly Fat Reduction",
+          "Double Chin Removal",
+          "Love Handles Reduction",
+          "Bingo Wings Treatment",
+          "Man Boobs Treatment",
+          "Bra Fat Removal",
+          "Bum Lift",
+          "Thigh Gap Reduction",
+          "3D Nutri Health",
+          "Face Lift",
+          "For women",
+          "For Men",
+          "Laser Hair Removal"
+        ],
+        "contact_form_detected": true,
+        "forms_found": 12,
+        "cta_texts_found": [
+          "Book A FREE Consultation",
+          "Book Consultation Appointment",
+          "Book Appointment",
+          "https://3dlifestyle.pk/book-your-consultation",
+          "Request a call back",
+          "Book Your Appointment",
+          "BOOK FREE CONSULTATION"
+        ],
+        "booking_cta_texts_found": [
+          "Book A FREE Consultation",
+          "Book Consultation Appointment",
+          "Book Appointment",
+          "https://3dlifestyle.pk/book-your-consultation",
+          "Book Your Appointment",
+          "BOOK FREE CONSULTATION"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": true,
+        "social_links_found": [
+          "facebook.com",
+          "youtube.com",
+          "instagram.com",
+          "tiktok.com",
+          "twitter.com",
+          "linkedin.com"
+        ]
+      },
+      "seo_and_content": {
+        "homepage_title": "3D Lifestyle Center of Medical Aesthetics | PRP Hair Treatment | Laser Hair Removal | Hydrafacial 3D Lifestyle PK",
+        "homepage_meta_description": "3D Lifestyle - Pakistan's Leading Medical Aesthetic Brand and the best aesthetic clinic for Face & Body. Experience the ultimate treatments at the 3D Lifestyle Center of Medical Aesthetics, including PRP Hair Treatment, HydraFacial, Laser Hair Removal, and Body Contouring.",
+        "heading_samples": [
+          "Book Your FREE Appointments Today!",
+          "UK’s #1 Aesthetic Treatments for Face & Body in Pakistan",
+          "Be a younger and slimmer you!",
+          "Our Aesthetic Procedures",
+          "For Women",
+          "For Men",
+          "Here’s what the Celebrities have to Say!",
+          "Meet our Experts",
+          "Before & After",
+          "Our Blog",
+          "Book A FREE Consultation",
+          "Biggest",
+          "Our New Centers are Open!"
+        ],
+        "local_business_schema_hint_detected": true,
+        "images_sampled": 427,
+        "images_with_nonempty_alt": 262,
+        "alt_coverage_percent_for_sample": 61.4
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 1318.3,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  },
+  {
+    "name": "RelaxZone PK Peshawar service area",
+    "url": "https://www.relaxzonepk.com/",
+    "authorization": "public_read_only",
+    "automatically_detected_facts": {
+      "audit_scope": {
+        "requested_url": "https://www.relaxzonepk.com/",
+        "pages_loaded": 1,
+        "page_urls_sampled": [
+          "https://www.relaxzonepk.com/"
+        ],
+        "failed_requests": [],
+        "robots_status": "robots.txt not found; proceeded with the configured small sample.",
+        "scope_notice": "Small navigation sample only; this is not a full-site crawl or a performance test."
+      },
+      "structure_and_lead_generation": {
+        "navigation_labels_found": [
+          "Relax Zone PK",
+          "About",
+          "Cities",
+          "Services",
+          "Home Service",
+          "Gallery",
+          "Contact",
+          "Book Now"
+        ],
+        "contact_form_detected": false,
+        "forms_found": 0,
+        "cta_texts_found": [
+          "Contact",
+          "Book Now",
+          "Book Appointment",
+          "Call Now",
+          "Book Home Service",
+          "Call 033-5633-4457 to Book",
+          "🌿 Visit Our Full Profile",
+          "Book a Session",
+          "Book Now →",
+          "Send Booking Request"
+        ],
+        "booking_cta_texts_found": [
+          "Book Now",
+          "Book Appointment",
+          "Book Home Service",
+          "Call 033-5633-4457 to Book",
+          "Book a Session",
+          "Book Now →",
+          "Send Booking Request"
+        ],
+        "contact_info_hint_detected": true,
+        "faq_hint_detected": false,
+        "social_links_found": []
+      },
+      "seo_and_content": {
+        "homepage_title": "RelaxZone PK | Pakistan's Premier Spa & Massage Network",
+        "homepage_meta_description": null,
+        "heading_samples": [
+          "TO RELAX WITH RELAXZONE PK",
+          "TO RELAX IS NOW",
+          "TO YOU ANYWHERE IN PAKISTAN",
+          "Your Wellness Journey Begins Here",
+          "Our Best Services",
+          "Find Us In Your City",
+          "We Come To You Anywhere in Pakistan",
+          "An Incredible Spa Experience",
+          "Our Expert Staff",
+          "Look Wellness Processes",
+          "What Our Clients Say",
+          "Book Your Session Today"
+        ],
+        "local_business_schema_hint_detected": false,
+        "images_sampled": 24,
+        "images_with_nonempty_alt": 24,
+        "alt_coverage_percent_for_sample": 100.0
+      },
+      "technical_signals": {
+        "viewport_meta_detected": true,
+        "homepage_response_time_ms": 1721.1,
+        "load_time_interpretation": "Single server-response timing only; it is not a user-perceived page-load or Core Web Vitals measurement."
+      }
+    },
+    "ai_judgment": {
+      "status": "pending",
+      "source": "LLM review not run",
+      "reason": "LLM review was not requested. Run again with --llm after setting OPENAI_API_KEY.",
+      "score": null,
+      "score_rationale": null,
+      "problems": [],
+      "missing_features": [],
+      "recommendations": [],
+      "human_checks": [
+        "Review the sampled pages visually on desktop and mobile.",
+        "Run the optional LLM review only after verifying the detected facts."
+      ]
+    }
+  }
+]
